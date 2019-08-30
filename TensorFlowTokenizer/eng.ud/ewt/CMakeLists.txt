@@ -7,7 +7,7 @@ install(
     COMPONENT
         tokenizer-eng.ud-ewt
     DESTINATION
-        /share/apps/lima/resources/TensorFlowTokenizer/eng.ud/ewt/
+        share/apps/lima/resources/TensorFlowTokenizer/eng.ud/ewt/
 )
 
 cpack_add_component(tokenizer-eng.ud-ewt

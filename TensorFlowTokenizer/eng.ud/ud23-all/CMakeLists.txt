@@ -7,7 +7,7 @@ install(
     COMPONENT
         tokenizer-eng.ud-all
     DESTINATION
-        /share/apps/lima/resources/TensorFlowTokenizer/eng.ud/all/
+        share/apps/lima/resources/TensorFlowTokenizer/eng.ud/all/
 )
 
 cpack_add_component(tokenizer-eng.ud-all
