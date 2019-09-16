@@ -14,6 +14,6 @@ cpack_add_component(tokenizer-eng.ud-all
     DISPLAY_NAME
         "UD English / All corpora"
     GROUP
-        Tokenizer
+        English
 )
 

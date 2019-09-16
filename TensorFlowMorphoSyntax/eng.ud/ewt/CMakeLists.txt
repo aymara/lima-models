@@ -5,12 +5,12 @@ install(
         UD_English-EWT.conf
         UD_English-EWT.model
     COMPONENT
-        tokenizer-eng.ud-ewt
+        morphosyntax-eng.ud-ewt
     DESTINATION
-        share/apps/lima/resources/TensorFlowTokenizer/eng.ud/ewt/
+        share/apps/lima/resources/TensorFlowMorphoSyntax/eng.ud/ewt/
 )
 
-cpack_add_component(tokenizer-eng.ud-ewt
+cpack_add_component(morphosyntax-eng.ud-ewt
     DISPLAY_NAME
         "UD English / EWT corpus"
     GROUP
