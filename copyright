@@ -1,0 +1,662 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: TensorFlowTokenizer/ud/tokenizer-afr.* TensorFlowMorphosyntax/ud/morphosyntax-afr.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Afrikaans-AfriBooms.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-afr.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-ara.* TensorFlowMorphosyntax/ud/morphosyntax-ara.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Arabic-PADT.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-ara.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-hye.* TensorFlowMorphosyntax/ud/morphosyntax-hye.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Armenian-ArmTDP.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-hye.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-eus.* TensorFlowMorphosyntax/ud/morphosyntax-eus.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Basque-BDT.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-eus.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-bel.* TensorFlowMorphosyntax/ud/morphosyntax-bel.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Belarusian-HSE.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-bel.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-bre.* TensorFlowMorphosyntax/ud/morphosyntax-bre.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Breton-KEB.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-bre.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-bul.* TensorFlowMorphosyntax/ud/morphosyntax-bul.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Bulgarian-BTB.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-bul.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-cat.* TensorFlowMorphosyntax/ud/morphosyntax-cat.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: GPL-3.0
+Comments: Model is generated from Universal Dependencies corpus Catalan-AnCora.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-cat.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-zho.* TensorFlowMorphosyntax/ud/morphosyntax-zho.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Chinese-GSD.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-zho.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-zho-simp.* TensorFlowMorphosyntax/ud/morphosyntax-zho-simp.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Chinese-GSDSimp.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-zho-simp.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-lzh.* TensorFlowMorphosyntax/ud/morphosyntax-lzh.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: public domain
+Comments: Model is generated from Universal Dependencies corpus Classical_Chinese-Kyoto.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-lzh.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-cop.* TensorFlowMorphosyntax/ud/morphosyntax-cop.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-4.0
+Comments: Model is generated from Universal Dependencies corpus Coptic-Scriptorium.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-cop.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-hrv.* TensorFlowMorphosyntax/ud/morphosyntax-hrv.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Croatian-SET.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-hrv.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-ces.* TensorFlowMorphosyntax/ud/morphosyntax-ces.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Czech-PDT.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-ces.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-dan.* TensorFlowMorphosyntax/ud/morphosyntax-dan.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Danish-DDT.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-dan.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-nld.* TensorFlowMorphosyntax/ud/morphosyntax-nld.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Dutch-LassySmall.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-nld.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-eng.* TensorFlowMorphosyntax/ud/morphosyntax-eng.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus English-EWT.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-eng.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-est.* TensorFlowMorphosyntax/ud/morphosyntax-est.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Estonian-EDT.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-est.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-fin.* TensorFlowMorphosyntax/ud/morphosyntax-fin.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Finnish-TDT.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-fin.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-fra.* TensorFlowMorphosyntax/ud/morphosyntax-fra.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: LGPL-LR
+Comments: Model is generated from Universal Dependencies corpus French-Sequoia.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-fra.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-glg.* TensorFlowMorphosyntax/ud/morphosyntax-glg.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Galician-CTG.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-glg.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-deu.* TensorFlowMorphosyntax/ud/morphosyntax-deu.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: HZSK-ACA and CC-BY-SA-4.0 
+Comments: Model is generated from Universal Dependencies corpus German-HDT.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-deu.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-ell.* TensorFlowMorphosyntax/ud/morphosyntax-ell.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Greek-GDT.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-ell.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-heb.* TensorFlowMorphosyntax/ud/morphosyntax-heb.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Hebrew-HTB.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-heb.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-hin.* TensorFlowMorphosyntax/ud/morphosyntax-hin.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Hindi-HDTB.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-hin.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-hun.* TensorFlowMorphosyntax/ud/morphosyntax-hun.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Hungarian-Szeged.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-hun.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-ind.* TensorFlowMorphosyntax/ud/morphosyntax-ind.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Indonesian-GSD.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-ind.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-gle.* TensorFlowMorphosyntax/ud/morphosyntax-gle.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Irish-IDT.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-gle.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-ita.* TensorFlowMorphosyntax/ud/morphosyntax-ita.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Italian-ISDT.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-ita.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-jpn.* TensorFlowMorphosyntax/ud/morphosyntax-jpn.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Japanese-GSD.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-jpn.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-kaz.* TensorFlowMorphosyntax/ud/morphosyntax-kaz.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Kazakh-KTB.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-kaz.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-kor.* TensorFlowMorphosyntax/ud/morphosyntax-kor.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Korean-Kaist.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-kor.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-kmr.* TensorFlowMorphosyntax/ud/morphosyntax-kmr.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Kurmanji-MG.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-kmr.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-lat.* TensorFlowMorphosyntax/ud/morphosyntax-lat.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Latin-PROIEL.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-lat.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-lav.* TensorFlowMorphosyntax/ud/morphosyntax-lav.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Latvian-LVTB.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-lav.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-lit.* TensorFlowMorphosyntax/ud/morphosyntax-lit.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Lithuanian-ALKSNIS.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-lit.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-mlt.* TensorFlowMorphosyntax/ud/morphosyntax-mlt.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Maltese-MUDT.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-mlt.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-mar.* TensorFlowMorphosyntax/ud/morphosyntax-mar.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Marathi-UFAL.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-mar.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-pcm.* TensorFlowMorphosyntax/ud/morphosyntax-pcm.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Naija-NSC.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-pcm.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-sme.* TensorFlowMorphosyntax/ud/morphosyntax-sme.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus North_Sami-Giella.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-sme.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-nob.* TensorFlowMorphosyntax/ud/morphosyntax-nob.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA
+Comments: Model is generated from Universal Dependencies corpus Norwegian-Bokmaal.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-nob.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-nno.* TensorFlowMorphosyntax/ud/morphosyntax-nno.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA
+Comments: Model is generated from Universal Dependencies corpus Norwegian-Nynorsk.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-nno.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-chu.* TensorFlowMorphosyntax/ud/morphosyntax-chu.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Old_Church_Slavonic-PROIEL.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-chu.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-fro.* TensorFlowMorphosyntax/ud/morphosyntax-fro.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Old_French-SRCMF.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-fro.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-orv.* TensorFlowMorphosyntax/ud/morphosyntax-orv.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Old_Russian-TOROT.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-orv.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-fas.* TensorFlowMorphosyntax/ud/morphosyntax-fas.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Persian-Seraji.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-fas.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-pol.* TensorFlowMorphosyntax/ud/morphosyntax-pol.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Polish-PDB.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-pol.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-por.* TensorFlowMorphosyntax/ud/morphosyntax-por.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Portuguese-GSD.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-por.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-ron.* TensorFlowMorphosyntax/ud/morphosyntax-ron.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Romanian-Nonstandard.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-ron.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-rus.* TensorFlowMorphosyntax/ud/morphosyntax-rus.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Russian-SynTagRus.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-rus.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-srp.* TensorFlowMorphosyntax/ud/morphosyntax-srp.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Serbian-SET.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-srp.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-slk.* TensorFlowMorphosyntax/ud/morphosyntax-slk.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Slovak-SNK.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-slk.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-slv.* TensorFlowMorphosyntax/ud/morphosyntax-slv.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Slovenian-SSJ.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-slv.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-spa.* TensorFlowMorphosyntax/ud/morphosyntax-spa.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: GPL-3.0
+Comments: Model is generated from Universal Dependencies corpus Spanish-AnCora.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-spa.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-swe.* TensorFlowMorphosyntax/ud/morphosyntax-swe.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Swedish-Talbanken.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-swe.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-tam.* TensorFlowMorphosyntax/ud/morphosyntax-tam.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Tamil-TTB.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-tam.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-tel.* TensorFlowMorphosyntax/ud/morphosyntax-tel.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Telugu-MTG.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-tel.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-tha.* TensorFlowMorphosyntax/ud/morphosyntax-tha.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-3.0
+Comments: Model is generated from Universal Dependencies corpus Thai-PUD.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-tha.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-tur.* TensorFlowMorphosyntax/ud/morphosyntax-tur.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA
+Comments: Model is generated from Universal Dependencies corpus Turkish-IMST.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-tur.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-ukr.* TensorFlowMorphosyntax/ud/morphosyntax-ukr.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Ukrainian-IU.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-ukr.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-urd.* TensorFlowMorphosyntax/ud/morphosyntax-urd.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-NC-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Urdu-UDTB.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-urd.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-uig.* TensorFlowMorphosyntax/ud/morphosyntax-uig.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Uyghur-UDT.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-uig.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-vie.* TensorFlowMorphosyntax/ud/morphosyntax-vie.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Vietnamese-VTB.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-vie.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-cym.* TensorFlowMorphosyntax/ud/morphosyntax-cym.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Welsh-CCG.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-cym.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-wol.* TensorFlowMorphosyntax/ud/morphosyntax-wol.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Wolof-WTB.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-wol.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
+Files: TensorFlowTokenizer/ud/tokenizer-gla.* TensorFlowMorphosyntax/ud/morphosyntax-gla.*
+Copyright: for list of copyright holders see files in corpus distribution.
+License: CC-BY-SA-4.0
+Comments: Model is generated from Universal Dependencies corpus Scottish_Gaelic-ARCOSG.
+
+Files: TensorFlowMorphosyntax/ud/fasttext-gla.bin
+Copyright: Facebook Inc.
+License: CC-BY-SA-3.0
+Comments: Quantized version of fastText embeddings.
+
