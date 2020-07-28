@@ -17,8 +17,6 @@ install(
     FILES
         morphosyntax-$code.conf
         morphosyntax-$code.model
-        lemmatizer-$code.conf
-        lemmatizer-$code.model
     COMPONENT
         morphosyntax-ud-$code
     DESTINATION
