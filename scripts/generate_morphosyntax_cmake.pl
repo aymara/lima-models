@@ -38,7 +38,7 @@ cpack_add_component(morphosyntax-ud-$code
     DISPLAY_NAME
         "UD Analysis: $lang"
     GROUP
-        $lang_no_spaces
+        $code-$lang_no_spaces
 )
 
 EOT

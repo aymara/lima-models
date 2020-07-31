@@ -1,4 +1,5 @@
 Afrikaans-AfriBooms afr
+Albanian-TSA sqi
 Arabic-PADT ara
 Armenian-ArmTDP hye
 Basque-BDT eus

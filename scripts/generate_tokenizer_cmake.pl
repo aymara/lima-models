@@ -24,7 +24,7 @@ cpack_add_component(tokenizer-ud-$code
     DISPLAY_NAME
         "UD / $lang"
     GROUP
-        $lang_no_spaces
+        $code-$lang_no_spaces
 )
 
 
