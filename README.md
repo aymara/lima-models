@@ -15,7 +15,7 @@ optional arguments:
   To install English models to ~/.lima (default destination directory) use following command:
   
   ```bash
-  install_models.py -l english
+  $ install_models.py -l english
   ```
   
   An average size of models for each language is 600Mb.
@@ -24,13 +24,13 @@ optional arguments:
   
  * temporarily
   ```bash
-  LIMA_RESOURCES=~/.lima/resources/:$LIMA_RESOURCES analyzeText -l ud -p deepud --opts udlang:fra test.txt
+  $ LIMA_RESOURCES=~/.lima/resources/:$LIMA_RESOURCES analyzeText -l ud -p deepud --opts udlang:fra test.txt
   ```
   
  * permanently
   ```bash
-  echo LIMA_RESOURCES=~/.lima/resources/:$LIMA_RESOURCES >> ~/.profile
-  source ~/.profile
+  $ echo LIMA_RESOURCES=~/.lima/resources/:$LIMA_RESOURCES >> ~/.profile
+  $ source ~/.profile
   ```
   
   ## Evaluation
