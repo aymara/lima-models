@@ -10,6 +10,26 @@
 
 [Download link](https://github.com/aymara/lima-models/releases/tag/v0.1.5-beta)
 
+| Language | Code | Language | Code | Language | Code | Language | Code |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Afrikaans](#Afrikaans-AfriBooms) | afr | [Albanian](#Albanian-TSA) | sqi | [Arabic](#Arabic-PADT) | ara | [Armenian](#Armenian-ArmTDP) | hye |
+| [Basque](#Basque-BDT) | eus | [Belarusian](#Belarusian-HSE) | bel | [Breton](#Breton-KEB) | bre | [Bulgarian](#Bulgarian-BTB) | bul |
+| [Catalan](#Catalan-AnCora) | cat | [Chinese](#Chinese-GSD) | zho | [Chinese](#Chinese-GSDSimp) | zho-simp | [Classical_Chinese](#Classical_Chinese-Kyoto) | lzh |
+| [Coptic](#Coptic-Scriptorium) | cop | [Croatian](#Croatian-SET) | hrv | [Czech](#Czech-PDT) | ces | [Danish](#Danish-DDT) | dan |
+| [Dutch](#Dutch-LassySmall) | nld | [English](#English-EWT) | eng | [Estonian](#Estonian-EDT) | est | [Finnish](#Finnish-TDT) | fin |
+| [French](#French-Sequoia) | fra | [Galician](#Galician-CTG) | glg | [German](#German-HDT) | deu | [Greek](#Greek-GDT) | ell |
+| [Hebrew](#Hebrew-HTB) | heb | [Hindi](#Hindi-HDTB) | hin | [Hungarian](#Hungarian-Szeged) | hun | [Indonesian](#Indonesian-GSD) | ind |
+| [Irish](#Irish-IDT) | gle | [Italian](#Italian-ISDT) | ita | [Japanese](#Japanese-GSD) | jpn | [Kazakh](#Kazakh-KTB) | kaz |
+| [Korean](#Korean-Kaist) | kor | [Kurmanji](#Kurmanji-MG) | kmr | [Latin](#Latin-PROIEL) | lat | [Latvian](#Latvian-LVTB) | lav |
+| [Lithuanian](#Lithuanian-ALKSNIS) | lit | [Maltese](#Maltese-MUDT) | mlt | [Marathi](#Marathi-UFAL) | mar | [Naija](#Naija-NSC) | pcm |
+| [North_Sami](#North_Sami-Giella) | sme | [Norwegian](#Norwegian-Bokmaal) | nob | [Norwegian](#Norwegian-Nynorsk) | nno | [Old_Church_Slavonic](#Old_Church_Slavonic-PROIEL) | chu |
+| [Old_French](#Old_French-SRCMF) | fro | [Old_Russian](#Old_Russian-TOROT) | orv | [Persian](#Persian-Seraji) | fas | [Polish](#Polish-PDB) | pol |
+| [Portuguese](#Portuguese-GSD) | por | [Romanian](#Romanian-Nonstandard) | ron | [Russian](#Russian-SynTagRus) | rus | [Scottish_Gaelic](#Scottish_Gaelic-ARCOSG) | gla |
+| [Serbian](#Serbian-SET) | srp | [Slovak](#Slovak-SNK) | slk | [Slovenian](#Slovenian-SSJ) | slv | [Spanish](#Spanish-AnCora) | spa |
+| [Swedish](#Swedish-Talbanken) | swe | [Tamil](#Tamil-TTB) | tam | [Telugu](#Telugu-MTG) | tel | [Thai](#Thai-PUD) | tha |
+| [Turkish](#Turkish-IMST) | tur | [Ukrainian](#Ukrainian-IU) | ukr | [Urdu](#Urdu-UDTB) | urd | [Uyghur](#Uyghur-UDT) | uig |
+| [Vietnamese](#Vietnamese-VTB) | vie | [Welsh](#Welsh-CCG) | cym | [Wolof](#Wolof-WTB) | wol  | |
+
 ### Average
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -19,7 +39,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 94 | 90 | 94 | 81 | 75 | 2761 |
 | udify | gold-tok | 100 | 100 | 100 | 89 | 81 | 87 | 82 | 74 | 91 |
 
-### afr Afrikaans-AfriBooms
+### Afrikaans-AfriBooms
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.96 | 99.65 | 99.96 | 96.78 | 77.85 | 96.31 | 85.93 | 82.34 | 349 |
@@ -28,14 +48,14 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 95.3 | 94.92 | **96.69** | 82.5 | 78.43 | **3355** |
 | udify | gold-tok | 100 | 100 | 100 | **97.62** | **96.73** | 95.29 | **87.32** | **83.79** | 104 |
 
-### sqi Albanian-TSA
+### Albanian-TSA
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.51 | 100 | 99.51 | 83.65 | 32.27 | 46.06 | 89.08 | 77.89 | 106 |
 | lima | gold-tok | 100 | 100 | 100 | **84.16** | **32.32** | 46.53 | **89.59** | **78.2** | **132** |
 | udify | gold-tok | 100 | 100 | 100 | 81.67 | 29.5 | **55.86** | 88.61 | 75.6 | 61 |
 
-### ara Arabic-PADT
+### Arabic-PADT
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.95 | 83.84 | 79.3 | 74.34 | 66.7 | 67.02 | 54.14 | 50.56 | 403 |
@@ -44,7 +64,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 93.7 | 89.17 | **92.9** | 82.04 | 76.32 | **2174** |
 | udify | gold-tok | 100 | 100 | 100 | 94.31 | **91.98** | 71.85 | **87.65** | **82.49** | 67 |
 
-### hye Armenian-ArmTDP
+### Armenian-ArmTDP
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.88 | 96.61 | 97.84 | 92.65 | 82.48 | 90.65 | 77.77 | 70.6 | 191 |
@@ -53,7 +73,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 92.49 | **85.15** | 92.41 | 76.93 | 69.71 | **2583** |
 | udify | gold-tok | 100 | 100 | 100 | 91.79 | 75.84 | 85.39 | **82.66** | 73.64 | 86 |
 
-### eus Basque-BDT
+### Basque-BDT
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.97 | 99.67 | 99.97 | 95.15 | 83.09 | 92.97 | 82.99 | 77.92 | 346 |
@@ -62,7 +82,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 92.37 | 87.38 | **93.57** | 75.09 | 69.97 | **3047** |
 | udify | gold-tok | 100 | 100 | 100 | **95.52** | **87.69** | 91.53 | **84.79** | **80.9** | 104 |
 
-### bel Belarusian-HSE
+### Belarusian-HSE
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.85 | 77.83 | 99.85 | 93.32 | 64.15 | 76.49 | 63.33 | 57.07 | 275 |
@@ -71,14 +91,14 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 84.42 | 65.37 | 75.16 | 59.48 | 53.76 | **2718** |
 | udify | gold-tok | 100 | 100 | 100 | **97.22** | **87.45** | **79.83** | **85.69** | **81.77** | 73 |
 
-### bre Breton-KEB
+### Breton-KEB
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 86.56 | 86.96 | 86.27 | 69.89 | 40.04 | 51.14 | 45.86 | 31.46 | 674 |
 | lima | gold-tok | 100 | 100 | 100 | **78.55** | 44.97 | **55.65** | 61.56 | **41.48** | **709** |
 | udify | gold-tok | 100 | 100 | 100 | 62.75 | **46.43** | 48.44 | **63.25** | 38.98 | 94 |
 
-### bul Bulgarian-BTB
+### Bulgarian-BTB
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.88 | 93.4 | 99.88 | 98.72 | 90.87 | 94.29 | 91.13 | 87.43 | 276 |
@@ -87,7 +107,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 97.79 | 95.55 | **94.72** | 89.98 | 85.81 | **2621** |
 | udify | gold-tok | 100 | 100 | 100 | **98.95** | **95.84** | 94.35 | **95.56** | **92.47** | 100 |
 
-### cat Catalan-AnCora
+### Catalan-AnCora
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.98 | 99.51 | 99.73 | 98.44 | 93.01 | 96.52 | 91.12 | 88.24 | 386 |
@@ -96,7 +116,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 98.14 | **97.7** | **98.18** | 89.08 | 85.98 | **3047** |
 | udify | gold-tok | 100 | 100 | 100 | **98.7** | 93.11 | 97.72 | **92.99** | **91.02** | 90 |
 
-### zho Chinese-GSD
+### Chinese-GSD
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 91.46 | 97.39 | 91.46 | 87.62 | 85.88 | 88.64 | 70.95 | 67.73 | 290 |
@@ -105,7 +125,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 92.15 | 98.73 | **99.99** | 74.38 | 69.48 | **3003** |
 | udify | gold-tok | 100 | 100 | 100 | 94.99 | **98.95** | 99.98 | 79.67 | 67.32 | 97 |
 
-### zho-simp Chinese-GSDSimp
+### Chinese-GSDSimp
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 92.12 | 97.01 | 92.12 | 88.13 | 86.52 | 90.54 | 71.39 | 67.72 | 296 |
@@ -114,7 +134,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 92.01 | 98.58 | **99.99** | 74.11 | 69 | **4004** |
 | udify | gold-tok | 100 | 100 | 100 | 93.76 | **98.74** | 99.91 | 77.81 | 64.89 | 97 |
 
-### lzh Classical\_Chinese-Kyoto
+### Classical\_Chinese-Kyoto
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.21 | 41.52 | 99.21 | 89.11 | 77.88 | 95.58 | 68.6 | 62.19 | 510 |
@@ -123,7 +143,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | **91.9** | **93.64** | **99.97** | **80.98** | **74.65** | **10562** |
 | udify | gold-tok | 100 | 100 | 100 | 59.15 | 67.67 | 98.21 | 54.09 | 34.07 | 67 |
 
-### cop Coptic-Scriptorium
+### Coptic-Scriptorium
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.8 | 20.85 | 23.4 | 20.74 | 19.66 | 21.93 | 1.55 | 1.43 | 395 |
@@ -132,7 +152,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | **94.02** | **70.5** | **95.98** | **85.33** | **80.39** | **2593** |
 | udify | gold-tok | 100 | 100 | 100 | 27.47 | 57.7 | 64.3 | 29.81 | 11.01 | 100 |
 
-### hrv Croatian-SET
+### Croatian-SET
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.92 | 94.55 | 99.92 | 97.67 | 81.47 | 91.28 | 87.75 | 82.42 | 320 |
@@ -141,7 +161,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 96.49 | **91.03** | 95.33 | 84.25 | 78.29 | **2426** |
 | udify | gold-tok | 100 | 100 | 100 | 97.64 | 87.47 | **96.03** | **95.31** | **91.43** | 100 |
 
-### ces Czech-PDT
+### Czech-PDT
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.95 | 93.37 | 99.87 | 98.85 | 84.78 | 94.36 | 91.67 | 88.68 | 338 |
@@ -150,7 +170,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 98.33 | 92.54 | 97.91 | 87.76 | 84.07 | **2450** |
 | udify | gold-tok | 100 | 100 | 100 | **99.15** | **96.64** | **98.68** | **94.74** | **92.11** | 96 |
 
-### dan Danish-DDT
+### Danish-DDT
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.84 | 89.72 | 99.84 | 96.86 | 92.71 | 95.57 | 83.08 | 79.7 | 222 |
@@ -159,7 +179,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 95.63 | 95.02 | 94.89 | 80.2 | 76.78 | **3341** |
 | udify | gold-tok | 100 | 100 | 100 | **97.62** | **95.13** | 94.88 | **87.93** | **84.58** | 91 |
 
-### nld Dutch-LassySmall
+### Dutch-LassySmall
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.68 | 74.27 | 99.68 | 94.95 | 92.65 | 95.73 | 82.82 | 78.32 | 250 |
@@ -168,7 +188,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 94.25 | 94.15 | 95.73 | 82.36 | 77.95 | **2889** |
 | udify | gold-tok | 100 | 100 | 100 | **96.1** | **96.08** | 95.66 | **92.85** | **89.51** | 92 |
 
-### eng English-EWT
+### English-EWT
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 98.85 | 85.14 | 98.85 | 94.89 | 90.81 | 94.17 | 85.15 | 82.06 | 245 |
@@ -177,7 +197,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 94.43 | 95.37 | 96.41 | 84.4 | 81.08 | **2281** |
 | udify | gold-tok | 100 | 100 | 100 | **96.29** | **96.19** | **97.39** | **91.12** | **88.53** | 92 |
 
-### est Estonian-EDT
+### Estonian-EDT
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.94 | 89.42 | 99.94 | 97.02 | 90.09 | 94.11 | 85.29 | 81.93 | 236 |
@@ -186,7 +206,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 95.71 | 93.48 | 90.64 | 80.33 | 76.53 | **2552** |
 | udify | gold-tok | 100 | 100 | 100 | **97.52** | **95.04** | 88.12 | **89.72** | **86.88** | 96 |
 
-### fin Finnish-TDT
+### Finnish-TDT
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.71 | 90.35 | 99.65 | 96.81 | 91.28 | 92.5 | 87.77 | 85.04 | 257 |
@@ -195,7 +215,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 94.7 | **92.38** | 87.2 | 81.78 | 78.07 | **3010** |
 | udify | gold-tok | 100 | 100 | 100 | 94.33 | 90.47 | 84.02 | 86.32 | 81.78 | 93 |
 
-### fra French-Sequoia
+### French-Sequoia
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.69 | 84.22 | 97.94 | 96.06 | 89.28 | 94.91 | 85.09 | 82.4 | 291 |
@@ -204,7 +224,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 97.08 | **95.84** | **97.82** | 86.83 | 84.13 | **3349** |
 | udify | gold-tok | 100 | 100 | 100 | 97.93 | 89.41 | 97.24 | **92.07** | **89.22** | 86 |
 
-### glg Galician-CTG
+### Galician-CTG
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.86 | 95.76 | 96.42 | 92.82 | 96.18 | 92.86 | 76.02 | 72.43 | 563 |
@@ -213,7 +233,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | **97.03** | **99.79** | 96.94 | 80.84 | 77.69 | **3717** |
 | udify | gold-tok | 100 | 100 | 100 | 96.64 | 97.51 | **97.36** | **84.83** | **81** | 96 |
 
-### deu German-HDT
+### German-HDT
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 95.67 | 100 | 90.56 | 32.77 | 74.61 | 88.09 | 81.31 | 299 |
@@ -222,7 +242,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | **97.93** | **91.48** | **94.61** | **94.61** | **92.91** | **2065** |
 | udify | gold-tok | 100 | 100 | 100 | 91.1 | 33.14 | 74.74 | 90.5 | 85.21 | 106 |
 
-### ell Greek-GDT
+### Greek-GDT
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.88 | 90.21 | 96.33 | 93.76 | 84.48 | 90.69 | 84.65 | 81.11 | 315 |
@@ -231,7 +251,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 95.86 | 90.47 | **94.72** | 87.16 | 83.68 | **2668** |
 | udify | gold-tok | 100 | 100 | 100 | 94.07 | **93.16** | 90.1 | **94.32** | **92.13** | 88 |
 
-### heb Hebrew-HTB
+### Hebrew-HTB
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.98 | 100 | 57.8 | 54.93 | 42.36 | 53.19 | 33.93 | 31.51 | 375 |
@@ -240,7 +260,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 94.9 | 92.66 | **95.42** | 83.59 | 79.58 | **2457** |
 | udify | gold-tok | 100 | 100 | 100 | **96.9** | **93.34** | 94.79 | **91.71** | **88.14** | 94 |
 
-### hin Hindi-HDTB
+### Hindi-HDTB
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 99.08 | 100 | 97.36 | 84.2 | 91.78 | 93.78 | 90.2 | 527 |
@@ -249,7 +269,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 95.88 | 90.39 | 98.06 | 91.35 | 87.25 | **805** |
 | udify | gold-tok | 100 | 100 | 100 | 97.3 | **92.85** | **98.52** | 93.06 | 89.18 | 105 |
 
-### hun Hungarian-Szeged
+### Hungarian-Szeged
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.87 | 95.49 | 99.87 | 94.12 | 85.19 | 82.87 | 77.9 | 71.71 | 284 |
@@ -258,7 +278,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 90.72 | **88.2** | 88.71 | 73.32 | 67.57 | **3483** |
 | udify | gold-tok | 100 | 100 | 100 | **96.4** | 87.11 | **90.75** | **89.73** | **85.14** | 95 |
 
-### ind Indonesian-GSD
+### Indonesian-GSD
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 93.13 | 100 | 93.25 | 89.69 | **98.9** | 82.57 | 75.26 | 319 |
@@ -267,7 +287,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 93.03 | **93.93** | 92.19 | 81.18 | 74.77 | 2356 |
 | udify | gold-tok | 100 | 100 | 100 | **93.4** | 93.42 | 98.67 | **86.42** | **79.95** | 94 |
 
-### gle Irish-IDT
+### Irish-IDT
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.63 | 97.59 | 99.63 | 89.17 | 58.42 | 83.94 | 75.68 | 62 | 284 |
@@ -276,7 +296,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 89.46 | **77.61** | **88.13** | 77.02 | **65.43** | **2527** |
 | udify | gold-tok | 100 | 100 | 100 | **89.86** | 71.95 | 83.18 | **80.42** | 64.33 | 77 |
 
-### ita Italian-ISDT
+### Italian-ISDT
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.91 | 98.76 | 98.93 | 96.85 | 93.84 | 90.91 | 88.97 | 86.7 | 313 |
@@ -285,7 +305,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 97.35 | 97.25 | 97.51 | 89.14 | 86.61 | **1736** |
 | udify | gold-tok | 100 | 100 | 100 | **98.54** | **97.99** | **97.92** | **95.51** | **93.74** | 91 |
 
-### jpn Japanese-GSD
+### Japanese-GSD
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 85.48 | 94.3 | 85.48 | 80.61 | 84.98 | 80.72 | 64.57 | 59.6 | 371 |
@@ -294,14 +314,14 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 91.5 | 97.56 | 96.74 | 83.55 | 75.33 | **2607** |
 | udify | gold-tok | 100 | 100 | 100 | **93.26** | 97.55 | **96.92** | **85.78** | **77.2** | 93 |
 
-### kaz Kazakh-KTB
+### Kazakh-KTB
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 93.72 | 90.86 | 94.82 | 82.34 | 61.42 | 66.63 | 68.87 | 59.08 | 63 |
 | lima | gold-tok | 100 | 100 | 100 | **86.73** | 64.59 | 70.27 | **75.35** | **64.35** | 66 |
 | udify | gold-tok | 100 | 100 | 100 | 85.62 | **66.25** | **77.74** | 74.43 | 63.55 | **87** |
 
-### kor Korean-Kaist
+### Korean-Kaist
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 100 | 100 | 94.24 | **100** | 87.74 | 86.81 | 84.02 | 316 |
@@ -310,14 +330,14 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 93.36 | **100** | **88.51** | 77.99 | 70.66 | **2364** |
 | udify | gold-tok | 100 | 100 | 100 | **94.42** | 99.96 | 87.03 | **87.46** | **84.21** | 100 |
 
-### kmr Kurmanji-MG
+### Kurmanji-MG
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 97.14 | 90.61 | 96.81 | 62.99 | 37.73 | 53.23 | 36.07 | 20.4 | 87 |
 | lima | gold-tok | 100 | 100 | 100 | **64.69** | **38.32** | 54.15 | **39.4** | **22.18** | 81 |
 | udify | gold-tok | 100 | 100 | 100 | 60.57 | 38.13 | **58.76** | 35.49 | 20.17 | **100** |
 
-### lat Latin-PROIEL
+### Latin-PROIEL
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 39.29 | 100 | 95.1 | 82.31 | 93.88 | 71.78 | 65.83 | 310 |
@@ -326,7 +346,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 94.71 | 87.19 | **94.68** | 73.36 | 67.31 | **1761** |
 | udify | gold-tok | 100 | 100 | 100 | **96.93** | **89.69** | 92.42 | **84.63** | **79.87** | 89 |
 
-### lav Latvian-LVTB
+### Latvian-LVTB
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.48 | 97.92 | 99.48 | 96.05 | 84.68 | 93.82 | 86.42 | 82.62 | 282 |
@@ -335,7 +355,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 94.05 | **90.1** | 93.26 | 79.71 | 75.08 | **2200** |
 | udify | gold-tok | 100 | 100 | 100 | 96.29 | 84.33 | 92.12 | **89.82** | **85.07** | 93 |
 
-### lit Lithuanian-ALKSNIS
+### Lithuanian-ALKSNIS
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.72 | 87.7 | 99.72 | 94.99 | 79.35 | 90.42 | 78.07 | 69.82 | 239 |
@@ -344,7 +364,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 90.51 | **81.38** | 88.89 | 69.83 | 60.96 | **2712** |
 | udify | gold-tok | 100 | 100 | 100 | 85.77 | 53.98 | 64.89 | 76.28 | 63.49 | 91 |
 
-### mlt Maltese-MUDT
+### Maltese-MUDT
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.81 | 82.34 | 99.81 | 90.68 | 99.81 | 99.81 | 73.73 | 65.22 | 499 |
@@ -353,7 +373,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | **93.94** | **100** | **100** | 78.02 | 72.15 | **3691** |
 | udify | gold-tok | 100 | 100 | 100 | 91.18 | 99.89 | **100** | **83.24** | **73.79** | 89 |
 
-### mar Marathi-UFAL
+### Marathi-UFAL
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 96.77 | 86.36 | 86.15 | 65.31 | 43.2 | 67.34 | 47.27 | 33.29 | 68 |
@@ -362,14 +382,14 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 77.67 | **63.35** | **76.46** | 68.45 | 54.85 | 22 |
 | udify | gold-tok | 100 | 100 | 100 | **88.35** | 58.25 | 73.06 | **78.88** | **66.99** | 34 |
 
-### pcm Naija-NSC
+### Naija-NSC
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 85.85 | 0.27 | 85.85 | 83.14 | 76.97 | 78.81 | 58.27 | 54.58 | **448** |
 | lima | gold-tok | 100 | 100 | 100 | **97.49** | **90.68** | **91.75** | **87.59** | **83.43** | 421 |
 | udify | gold-tok | 100 | 100 | 100 | 53.67 | 58.04 | 90.66 | 49.47 | 33.71 | 93 |
 
-### sme North\_Sami-Giella
+### North\_Sami-Giella
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.8 | 99.65 | 99.8 | 86.54 | 76.16 | 77.06 | 68.06 | 59.82 | 360 |
@@ -378,7 +398,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 87.91 | 82.58 | **82.1** | 64.91 | 58.17 | **3337** |
 | udify | gold-tok | 100 | 100 | 100 | **90.39** | **84.32** | 73.19 | **74.23** | **67.22** | 87 |
 
-### nob Norwegian-Bokmaal
+### Norwegian-Bokmaal
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 97.47 | 100 | 98.11 | 87.64 | 85.49 | 91 | 88.57 | 347 |
@@ -387,7 +407,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 96.71 | 95.41 | 96.95 | 87.54 | 84.73 | **2497** |
 | udify | gold-tok | 100 | 100 | 100 | **98.21** | **96.37** | **97.58** | **91.85** | **90.05** | 101 |
 
-### nno Norwegian-Nynorsk
+### Norwegian-Nynorsk
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.91 | 93.68 | 99.91 | 10.92 | 38.89 | 54.38 | 9.38 | 2.81 | 286 |
@@ -396,7 +416,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 96.21 | 95.05 | 96.4 | 86.44 | 83.48 | **2252** |
 | udify | gold-tok | 100 | 100 | 100 | **97.88** | **96.59** | **97.33** | **92.15** | **90.19** | 99 |
 
-### chu Old\_Church\_Slavonic-PROIEL
+### Old\_Church\_Slavonic-PROIEL
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 38.04 | 100 | 94.43 | 76.85 | 91.65 | 73.37 | 67.88 | 291 |
@@ -405,7 +425,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 93.82 | **87.44** | 91.04 | 79.53 | 73.22 | **3344** |
 | udify | gold-tok | 100 | 100 | 100 | 80.17 | 69.8 | 68.08 | 70.34 | 60.29 | 82 |
 
-### fro Old\_French-SRCMF
+### Old\_French-SRCMF
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 76.15 | 100 | 90.33 | 87.3 | **100** | 87.24 | 81.34 | 409 |
@@ -414,7 +434,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 89.99 | 96.11 | **100** | 85.72 | 79.09 | **2893** |
 | udify | gold-tok | 100 | 100 | 100 | **91.51** | **96.99** | **100** | **92** | **86.65** | 85 |
 
-### orv Old\_Russian-TOROT
+### Old\_Russian-TOROT
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 26.11 | 100 | 90.71 | 71.37 | 82.84 | 65.75 | 58.81 | 291 |
@@ -423,7 +443,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 90.46 | **82.52** | 81.31 | 73.44 | 65.88 | **1707** |
 | udify | gold-tok | 100 | 100 | 100 | 69.87 | 52.93 | 39.98 | 60.49 | 48.34 | 82 |
 
-### fas Persian-Seraji
+### Persian-Seraji
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.98 | 99.25 | 99.06 | 96.67 | 86.98 | 96.18 | 87.12 | 83.01 | 368 |
@@ -432,7 +452,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 96.32 | **96.41** | 93.91 | 84.3 | 80.17 | 2671 |
 | udify | gold-tok | 100 | 100 | 100 | 96.23 | 94.79 | 92.64 | **89.77** | **85.96** | 90 |
 
-### pol Polish-PDB
+### Polish-PDB
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.86 | 96.7 | 98.72 | 97.39 | 84.85 | 94.97 | 88.4 | 85.69 | 296 |
@@ -441,7 +461,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 97.19 | **88.78** | **96.09** | 87.02 | 83.2 | **2401** |
 | udify | gold-tok | 100 | 100 | 100 | 96.79 | 67.31 | 91.95 | 88.4 | 81.04 | 95 |
 
-### por Portuguese-GSD
+### Portuguese-GSD
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.93 | 96.63 | 96.71 | 94.57 | 93.39 | 96.08 | 86.72 | 84.52 | 316 |
@@ -450,7 +470,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 97.17 | **97.95** | 94.71 | 88.26 | 86.1 | **2867** |
 | udify | gold-tok | 100 | 100 | 100 | 97.16 | 74.68 | 98.76 | **92.08** | 87.07 | 96 |
 
-### ron Romanian-Nonstandard
+### Romanian-Nonstandard
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 98.98 | 96.92 | 98.98 | 95.56 | 61.03 | 91.55 | 86.72 | 81.32 | 387 |
@@ -459,7 +479,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 95.94 | **89.74** | **94.03** | 84.89 | 79.42 | **2099** |
 | udify | gold-tok | 100 | 100 | 100 | 95.73 | 88.17 | 90.44 | **90.64** | **85.81** | 92 |
 
-### rus Russian-SynTagRus
+### Russian-SynTagRus
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.63 | 98.61 | 99.63 | 98.45 | 96.18 | 95.55 | 92.09 | 90.41 | 299 |
@@ -468,7 +488,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 98.16 | 93.87 | **96.9** | 88.34 | 85.68 | **2607** |
 | udify | gold-tok | 100 | 100 | 100 | **98.87** | 96.19 | 94.71 | **94.59** | **92.88** | 103 |
 
-### gla Scottish\_Gaelic-ARCOSG
+### Scottish\_Gaelic-ARCOSG
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.7 | 50.92 | 99.7 | 86.99 | 69.6 | 91.36 | 70.56 | 61.64 | 393 |
@@ -477,7 +497,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | **91.07** | **84.95** | **92.46** | **78.42** | **70.34** | **2505** |
 | udify | gold-tok | 100 | 100 | 100 | 58.15 | 29.18 | 60.98 | 54.45 | 28.17 | 88 |
 
-### srp Serbian-SET
+### Serbian-SET
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.96 | 94.63 | 99.96 | 97.98 | 80.46 | 94.99 | 89.49 | 84.25 | 262 |
@@ -486,7 +506,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 97.23 | **91.21** | 95.12 | 86.3 | 81.14 | **2855** |
 | udify | gold-tok | 100 | 100 | 100 | 95.93 | 77.69 | **97.15** | **96.65** | **92.65** | 102 |
 
-### slk Slovak-SNK
+### Slovak-SNK
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.96 | 85.62 | 99.96 | 95.64 | 81.61 | 91.11 | 86.97 | 82.84 | 319 |
@@ -495,7 +515,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 93.06 | 80.53 | 86.61 | 82.46 | 77.45 | **2171** |
 | udify | gold-tok | 100 | 100 | 100 | **97.08** | **89.21** | **94.3** | **96.05** | **93.3** | 97 |
 
-### slv Slovenian-SSJ
+### Slovenian-SSJ
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 98.5 | 66.67 | 98.5 | 96.82 | 84.88 | 94.81 | 84.33 | 82.14 | 311 |
@@ -504,7 +524,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 96.19 | 88.69 | 95.33 | 85.18 | 81.81 | **2011** |
 | udify | gold-tok | 100 | 100 | 100 | **98.76** | **93.36** | **96.71** | **94.75** | **93.07** | 101 |
 
-### spa Spanish-AnCora
+### Spanish-AnCora
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.96 | 97.88 | 99.44 | 93.37 | 87.31 | 87.5 | 80.33 | 70.71 | 450 |
@@ -513,7 +533,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | **98.36** | **98.17** | **98.52** | 88.4 | 85.26 | **2769** |
 | udify | gold-tok | 100 | 100 | 100 | 97.95 | 91.34 | 97.74 | **91.68** | **89.08** | 93 |
 
-### swe Swedish-Talbanken
+### Swedish-Talbanken
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.9 | 95.35 | 99.9 | 97.37 | 92.08 | 96.43 | 86.37 | 82.38 | 350 |
@@ -522,7 +542,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 95.7 | 94.54 | 95.45 | 82.87 | 78.89 | **2911** |
 | udify | gold-tok | 100 | 100 | 100 | **98.2** | **95.92** | 96.29 | **92.06** | **89.24** | 104 |
 
-### tam Tamil-TTB
+### Tamil-TTB
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.58 | 96.3 | 85.31 | 73.78 | 63.9 | 75.85 | 48.1 | 41.01 | 148 |
@@ -531,7 +551,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 85.67 | **84.72** | 88.29 | 64.96 | 56.91 | **1989** |
 | udify | gold-tok | 100 | 100 | 100 | **91.35** | 81 | 83.86 | **79.44** | **71.44** | 76 |
 
-### tel Telugu-MTG
+### Telugu-MTG
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 97.95 | 100 | 90.98 | 98.34 | **100** | 88.21 | 76.84 | 99 |
@@ -540,14 +560,14 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 90.57 | 98.89 | **100** | 88.21 | 76.84 | **1442** |
 | udify | gold-tok | 100 | 100 | 100 | **93.62** | **99.17** | **100** | **91.96** | **83.36** | 40 |
 
-### tha Thai-PUD
+### Thai-PUD
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 91.51 | 62.75 | 91.51 | 83.42 | 86.47 | 91.51 | 71.94 | 67.5 | 761 |
 | lima | gold-tok | 100 | 100 | 100 | **90.53** | **94.81** | **100** | **84.32** | **77.48** | **892** |
 | udify | gold-tok | 100 | 100 | 100 | 56.54 | 69.64 | **100** | 48.64 | 25.71 | 95 |
 
-### tur Turkish-IMST
+### Turkish-IMST
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.92 | 96.23 | 96.5 | 90.28 | 76.03 | 91.39 | 62.9 | 54.58 | 313 |
@@ -556,7 +576,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 93.04 | **89.87** | 91.44 | 64.51 | 57.15 | **3343** |
 | udify | gold-tok | 100 | 100 | 100 | **94.42** | 84.66 | 88.54 | **74.8** | **67.45** | 89 |
 
-### ukr Ukrainian-IU
+### Ukrainian-IU
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.65 | 93.18 | 99.63 | 97.01 | 82.15 | 93.83 | 84.52 | 81.37 | 280 |
@@ -565,7 +585,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 95.06 | 84.42 | 93.73 | 79.76 | 75.14 | **2445** |
 | udify | gold-tok | 100 | 100 | 100 | **97.81** | **88.62** | **94.5** | **92.57** | **89.93** | 89 |
 
-### urd Urdu-UDTB
+### Urdu-UDTB
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.97 | 98.6 | 99.97 | 93.3 | 75 | 93.99 | 85.53 | 78.48 | 424 |
@@ -574,7 +594,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 92.41 | 80.76 | 93.07 | 83.73 | 77.01 | **740** |
 | udify | gold-tok | 100 | 100 | 100 | **94.44** | **83.76** | **97.13** | **86.32** | 76.06 | 94 |
 
-### uig Uyghur-UDT
+### Uyghur-UDT
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.67 | 81.67 | 99.67 | 85.47 | 73.03 | 90.23 | 69.41 | 54.32 | 354 |
@@ -583,7 +603,7 @@
 | udpipe | gold-tok | 100 | 100 | 100 | **88.19** | **84.42** | **92.15** | **71.99** | **57.94** | **5165** |
 | udify | gold-tok | 100 | 100 | 100 | 75.97 | 71.4 | 81.04 | 65.69 | 48.69 | 93 |
 
-### vie Vietnamese-VTB
+### Vietnamese-VTB
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 84.66 | 91.78 | 84.66 | 73.53 | 80.45 | 82.83 | 46.39 | 39.73 | 458 |
@@ -592,14 +612,14 @@
 | udpipe | gold-tok | 100 | 100 | 100 | 87.59 | 99.5 | 98.91 | 62.58 | 54.45 | **3985** |
 | udify | gold-tok | 100 | 100 | 100 | **91.32** | **99.6** | **99.18** | **73.79** | **65.57** | 109 |
 
-### cym Welsh-CCG
+### Welsh-CCG
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.91 | 97.78 | 99.35 | 90.45 | 77.32 | **63.27** | 76.01 | 63.24 | 715 |
 | lima | gold-tok | 100 | 100 | 100 | **91.06** | **77.91** | **63.27** | **77.58** | **64.77** | **731** |
 | udify | gold-tok | 100 | 100 | 100 | 68.62 | 42.55 | 48.69 | 69.07 | 42.59 | 101 |
 
-### wol Wolof-WTB
+### Wolof-WTB
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.91 | 92.32 | 98.31 | 89.83 | 80.62 | 72.28 | 74.9 | 66.41 | 701 |
