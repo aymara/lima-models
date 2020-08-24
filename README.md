@@ -1,7 +1,3 @@
-# lima-models
-
-Models for Lima
-
 ## Installation
 
 Use install_models.py to install LIMA models to user's home directory (~/.lima). This script is the part of LIMA installation.
