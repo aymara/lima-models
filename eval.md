@@ -40,6 +40,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 89 | 81 | 87 | 82 | 74 | 91 |
 
 ### Afrikaans-AfriBooms
+Download link: [lima-deep-models-afr-afrikaans_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-afr-afrikaans_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.96 | 99.65 | 99.96 | 96.78 | 77.85 | 96.31 | 85.93 | 82.34 | 349 |
@@ -49,6 +50,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **97.62** | **96.73** | 95.29 | **87.32** | **83.79** | 104 |
 
 ### Albanian-TSA
+Download link: [lima-deep-models-sqi-albanian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-sqi-albanian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.51 | 100 | 99.51 | 83.65 | 32.27 | 46.06 | 89.08 | 77.89 | 106 |
@@ -56,6 +58,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 81.67 | 29.5 | **55.86** | 88.61 | 75.6 | 61 |
 
 ### Arabic-PADT
+Download link: [lima-deep-models-ara-arabic_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-ara-arabic_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.95 | 83.84 | 79.3 | 74.34 | 66.7 | 67.02 | 54.14 | 50.56 | 403 |
@@ -65,6 +68,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 94.31 | **91.98** | 71.85 | **87.65** | **82.49** | 67 |
 
 ### Armenian-ArmTDP
+Download link: [lima-deep-models-hye-armenian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-hye-armenian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.88 | 96.61 | 97.84 | 92.65 | 82.48 | 90.65 | 77.77 | 70.6 | 191 |
@@ -74,6 +78,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 91.79 | 75.84 | 85.39 | **82.66** | 73.64 | 86 |
 
 ### Basque-BDT
+Download link: [lima-deep-models-eus-basque_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-eus-basque_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.97 | 99.67 | 99.97 | 95.15 | 83.09 | 92.97 | 82.99 | 77.92 | 346 |
@@ -83,6 +88,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **95.52** | **87.69** | 91.53 | **84.79** | **80.9** | 104 |
 
 ### Belarusian-HSE
+Download link: [lima-deep-models-bel-belarusian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-bel-belarusian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.85 | 77.83 | 99.85 | 93.32 | 64.15 | 76.49 | 63.33 | 57.07 | 275 |
@@ -92,6 +98,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **97.22** | **87.45** | **79.83** | **85.69** | **81.77** | 73 |
 
 ### Breton-KEB
+Download link: [lima-deep-models-bre-breton_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-bre-breton_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 86.56 | 86.96 | 86.27 | 69.89 | 40.04 | 51.14 | 45.86 | 31.46 | 674 |
@@ -99,6 +106,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 62.75 | **46.43** | 48.44 | **63.25** | 38.98 | 94 |
 
 ### Bulgarian-BTB
+Download link: [lima-deep-models-bul-bulgarian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-bul-bulgarian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.88 | 93.4 | 99.88 | 98.72 | 90.87 | 94.29 | 91.13 | 87.43 | 276 |
@@ -108,6 +116,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **98.95** | **95.84** | 94.35 | **95.56** | **92.47** | 100 |
 
 ### Catalan-AnCora
+Download link: [lima-deep-models-cat-catalan_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-cat-catalan_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.98 | 99.51 | 99.73 | 98.44 | 93.01 | 96.52 | 91.12 | 88.24 | 386 |
@@ -117,6 +126,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **98.7** | 93.11 | 97.72 | **92.99** | **91.02** | 90 |
 
 ### Chinese-GSD
+Download link: [lima-deep-models-zho-chinese_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-zho-chinese_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 91.46 | 97.39 | 91.46 | 87.62 | 85.88 | 88.64 | 70.95 | 67.73 | 290 |
@@ -126,6 +136,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 94.99 | **98.95** | 99.98 | 79.67 | 67.32 | 97 |
 
 ### Chinese-GSDSimp
+Download link: [lima-deep-models-zho-simp-chinese_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-zho-simp-chinese_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 92.12 | 97.01 | 92.12 | 88.13 | 86.52 | 90.54 | 71.39 | 67.72 | 296 |
@@ -135,6 +146,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 93.76 | **98.74** | 99.91 | 77.81 | 64.89 | 97 |
 
 ### Classical\_Chinese-Kyoto
+Download link: [lima-deep-models-lzh-classical\_chinese_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-lzh-classical\_chinese_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.21 | 41.52 | 99.21 | 89.11 | 77.88 | 95.58 | 68.6 | 62.19 | 510 |
@@ -144,6 +156,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 59.15 | 67.67 | 98.21 | 54.09 | 34.07 | 67 |
 
 ### Coptic-Scriptorium
+Download link: [lima-deep-models-cop-coptic_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-cop-coptic_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.8 | 20.85 | 23.4 | 20.74 | 19.66 | 21.93 | 1.55 | 1.43 | 395 |
@@ -153,6 +166,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 27.47 | 57.7 | 64.3 | 29.81 | 11.01 | 100 |
 
 ### Croatian-SET
+Download link: [lima-deep-models-hrv-croatian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-hrv-croatian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.92 | 94.55 | 99.92 | 97.67 | 81.47 | 91.28 | 87.75 | 82.42 | 320 |
@@ -162,6 +176,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 97.64 | 87.47 | **96.03** | **95.31** | **91.43** | 100 |
 
 ### Czech-PDT
+Download link: [lima-deep-models-ces-czech_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-ces-czech_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.95 | 93.37 | 99.87 | 98.85 | 84.78 | 94.36 | 91.67 | 88.68 | 338 |
@@ -171,6 +186,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **99.15** | **96.64** | **98.68** | **94.74** | **92.11** | 96 |
 
 ### Danish-DDT
+Download link: [lima-deep-models-dan-danish_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-dan-danish_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.84 | 89.72 | 99.84 | 96.86 | 92.71 | 95.57 | 83.08 | 79.7 | 222 |
@@ -180,6 +196,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **97.62** | **95.13** | 94.88 | **87.93** | **84.58** | 91 |
 
 ### Dutch-LassySmall
+Download link: [lima-deep-models-nld-dutch_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-nld-dutch_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.68 | 74.27 | 99.68 | 94.95 | 92.65 | 95.73 | 82.82 | 78.32 | 250 |
@@ -189,6 +206,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **96.1** | **96.08** | 95.66 | **92.85** | **89.51** | 92 |
 
 ### English-EWT
+Download link: [lima-deep-models-eng-english_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-eng-english_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 98.85 | 85.14 | 98.85 | 94.89 | 90.81 | 94.17 | 85.15 | 82.06 | 245 |
@@ -198,6 +216,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **96.29** | **96.19** | **97.39** | **91.12** | **88.53** | 92 |
 
 ### Estonian-EDT
+Download link: [lima-deep-models-est-estonian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-est-estonian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.94 | 89.42 | 99.94 | 97.02 | 90.09 | 94.11 | 85.29 | 81.93 | 236 |
@@ -207,6 +226,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **97.52** | **95.04** | 88.12 | **89.72** | **86.88** | 96 |
 
 ### Finnish-TDT
+Download link: [lima-deep-models-fin-finnish_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-fin-finnish_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.71 | 90.35 | 99.65 | 96.81 | 91.28 | 92.5 | 87.77 | 85.04 | 257 |
@@ -216,6 +236,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 94.33 | 90.47 | 84.02 | 86.32 | 81.78 | 93 |
 
 ### French-Sequoia
+Download link: [lima-deep-models-fra-french_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-fra-french_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.69 | 84.22 | 97.94 | 96.06 | 89.28 | 94.91 | 85.09 | 82.4 | 291 |
@@ -225,6 +246,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 97.93 | 89.41 | 97.24 | **92.07** | **89.22** | 86 |
 
 ### Galician-CTG
+Download link: [lima-deep-models-glg-galician_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-glg-galician_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.86 | 95.76 | 96.42 | 92.82 | 96.18 | 92.86 | 76.02 | 72.43 | 563 |
@@ -234,6 +256,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 96.64 | 97.51 | **97.36** | **84.83** | **81** | 96 |
 
 ### German-HDT
+Download link: [lima-deep-models-deu-german_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-deu-german_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 95.67 | 100 | 90.56 | 32.77 | 74.61 | 88.09 | 81.31 | 299 |
@@ -243,6 +266,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 91.1 | 33.14 | 74.74 | 90.5 | 85.21 | 106 |
 
 ### Greek-GDT
+Download link: [lima-deep-models-ell-greek_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-ell-greek_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.88 | 90.21 | 96.33 | 93.76 | 84.48 | 90.69 | 84.65 | 81.11 | 315 |
@@ -252,6 +276,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 94.07 | **93.16** | 90.1 | **94.32** | **92.13** | 88 |
 
 ### Hebrew-HTB
+Download link: [lima-deep-models-heb-hebrew_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-heb-hebrew_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.98 | 100 | 57.8 | 54.93 | 42.36 | 53.19 | 33.93 | 31.51 | 375 |
@@ -261,6 +286,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **96.9** | **93.34** | 94.79 | **91.71** | **88.14** | 94 |
 
 ### Hindi-HDTB
+Download link: [lima-deep-models-hin-hindi_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-hin-hindi_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 99.08 | 100 | 97.36 | 84.2 | 91.78 | 93.78 | 90.2 | 527 |
@@ -270,6 +296,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 97.3 | **92.85** | **98.52** | 93.06 | 89.18 | 105 |
 
 ### Hungarian-Szeged
+Download link: [lima-deep-models-hun-hungarian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-hun-hungarian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.87 | 95.49 | 99.87 | 94.12 | 85.19 | 82.87 | 77.9 | 71.71 | 284 |
@@ -279,6 +306,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **96.4** | 87.11 | **90.75** | **89.73** | **85.14** | 95 |
 
 ### Indonesian-GSD
+Download link: [lima-deep-models-ind-indonesian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-ind-indonesian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 93.13 | 100 | 93.25 | 89.69 | **98.9** | 82.57 | 75.26 | 319 |
@@ -288,6 +316,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **93.4** | 93.42 | 98.67 | **86.42** | **79.95** | 94 |
 
 ### Irish-IDT
+Download link: [lima-deep-models-gle-irish_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-gle-irish_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.63 | 97.59 | 99.63 | 89.17 | 58.42 | 83.94 | 75.68 | 62 | 284 |
@@ -297,6 +326,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **89.86** | 71.95 | 83.18 | **80.42** | 64.33 | 77 |
 
 ### Italian-ISDT
+Download link: [lima-deep-models-ita-italian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-ita-italian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.91 | 98.76 | 98.93 | 96.85 | 93.84 | 90.91 | 88.97 | 86.7 | 313 |
@@ -306,6 +336,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **98.54** | **97.99** | **97.92** | **95.51** | **93.74** | 91 |
 
 ### Japanese-GSD
+Download link: [lima-deep-models-jpn-japanese_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-jpn-japanese_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 85.48 | 94.3 | 85.48 | 80.61 | 84.98 | 80.72 | 64.57 | 59.6 | 371 |
@@ -315,6 +346,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **93.26** | 97.55 | **96.92** | **85.78** | **77.2** | 93 |
 
 ### Kazakh-KTB
+Download link: [lima-deep-models-kaz-kazakh_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-kaz-kazakh_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 93.72 | 90.86 | 94.82 | 82.34 | 61.42 | 66.63 | 68.87 | 59.08 | 63 |
@@ -322,6 +354,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 85.62 | **66.25** | **77.74** | 74.43 | 63.55 | **87** |
 
 ### Korean-Kaist
+Download link: [lima-deep-models-kor-korean_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-kor-korean_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 100 | 100 | 94.24 | **100** | 87.74 | 86.81 | 84.02 | 316 |
@@ -331,6 +364,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **94.42** | 99.96 | 87.03 | **87.46** | **84.21** | 100 |
 
 ### Kurmanji-MG
+Download link: [lima-deep-models-kmr-kurmanji_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-kmr-kurmanji_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 97.14 | 90.61 | 96.81 | 62.99 | 37.73 | 53.23 | 36.07 | 20.4 | 87 |
@@ -338,6 +372,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 60.57 | 38.13 | **58.76** | 35.49 | 20.17 | **100** |
 
 ### Latin-PROIEL
+Download link: [lima-deep-models-lat-latin_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-lat-latin_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 39.29 | 100 | 95.1 | 82.31 | 93.88 | 71.78 | 65.83 | 310 |
@@ -347,6 +382,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **96.93** | **89.69** | 92.42 | **84.63** | **79.87** | 89 |
 
 ### Latvian-LVTB
+Download link: [lima-deep-models-lav-latvian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-lav-latvian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.48 | 97.92 | 99.48 | 96.05 | 84.68 | 93.82 | 86.42 | 82.62 | 282 |
@@ -356,6 +392,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 96.29 | 84.33 | 92.12 | **89.82** | **85.07** | 93 |
 
 ### Lithuanian-ALKSNIS
+Download link: [lima-deep-models-lit-lithuanian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-lit-lithuanian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.72 | 87.7 | 99.72 | 94.99 | 79.35 | 90.42 | 78.07 | 69.82 | 239 |
@@ -365,6 +402,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 85.77 | 53.98 | 64.89 | 76.28 | 63.49 | 91 |
 
 ### Maltese-MUDT
+Download link: [lima-deep-models-mlt-maltese_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-mlt-maltese_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.81 | 82.34 | 99.81 | 90.68 | 99.81 | 99.81 | 73.73 | 65.22 | 499 |
@@ -374,6 +412,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 91.18 | 99.89 | **100** | **83.24** | **73.79** | 89 |
 
 ### Marathi-UFAL
+Download link: [lima-deep-models-mar-marathi_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-mar-marathi_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 96.77 | 86.36 | 86.15 | 65.31 | 43.2 | 67.34 | 47.27 | 33.29 | 68 |
@@ -383,6 +422,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **88.35** | 58.25 | 73.06 | **78.88** | **66.99** | 34 |
 
 ### Naija-NSC
+Download link: [lima-deep-models-pcm-naija_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-pcm-naija_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 85.85 | 0.27 | 85.85 | 83.14 | 76.97 | 78.81 | 58.27 | 54.58 | **448** |
@@ -390,6 +430,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 53.67 | 58.04 | 90.66 | 49.47 | 33.71 | 93 |
 
 ### North\_Sami-Giella
+Download link: [lima-deep-models-sme-north\_sami_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-sme-north\_sami_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.8 | 99.65 | 99.8 | 86.54 | 76.16 | 77.06 | 68.06 | 59.82 | 360 |
@@ -399,6 +440,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **90.39** | **84.32** | 73.19 | **74.23** | **67.22** | 87 |
 
 ### Norwegian-Bokmaal
+Download link: [lima-deep-models-nob-norwegian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-nob-norwegian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 97.47 | 100 | 98.11 | 87.64 | 85.49 | 91 | 88.57 | 347 |
@@ -408,6 +450,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **98.21** | **96.37** | **97.58** | **91.85** | **90.05** | 101 |
 
 ### Norwegian-Nynorsk
+Download link: [lima-deep-models-nno-norwegian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-nno-norwegian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.91 | 93.68 | 99.91 | 10.92 | 38.89 | 54.38 | 9.38 | 2.81 | 286 |
@@ -417,6 +460,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **97.88** | **96.59** | **97.33** | **92.15** | **90.19** | 99 |
 
 ### Old\_Church\_Slavonic-PROIEL
+Download link: [lima-deep-models-chu-old\_church\_slavonic_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-chu-old\_church\_slavonic_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 38.04 | 100 | 94.43 | 76.85 | 91.65 | 73.37 | 67.88 | 291 |
@@ -426,6 +470,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 80.17 | 69.8 | 68.08 | 70.34 | 60.29 | 82 |
 
 ### Old\_French-SRCMF
+Download link: [lima-deep-models-fro-old\_french_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-fro-old\_french_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 76.15 | 100 | 90.33 | 87.3 | **100** | 87.24 | 81.34 | 409 |
@@ -435,6 +480,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **91.51** | **96.99** | **100** | **92** | **86.65** | 85 |
 
 ### Old\_Russian-TOROT
+Download link: [lima-deep-models-orv-old\_russian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-orv-old\_russian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 26.11 | 100 | 90.71 | 71.37 | 82.84 | 65.75 | 58.81 | 291 |
@@ -444,6 +490,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 69.87 | 52.93 | 39.98 | 60.49 | 48.34 | 82 |
 
 ### Persian-Seraji
+Download link: [lima-deep-models-fas-persian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-fas-persian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.98 | 99.25 | 99.06 | 96.67 | 86.98 | 96.18 | 87.12 | 83.01 | 368 |
@@ -453,6 +500,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 96.23 | 94.79 | 92.64 | **89.77** | **85.96** | 90 |
 
 ### Polish-PDB
+Download link: [lima-deep-models-pol-polish_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-pol-polish_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.86 | 96.7 | 98.72 | 97.39 | 84.85 | 94.97 | 88.4 | 85.69 | 296 |
@@ -462,6 +510,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 96.79 | 67.31 | 91.95 | 88.4 | 81.04 | 95 |
 
 ### Portuguese-GSD
+Download link: [lima-deep-models-por-portuguese_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-por-portuguese_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.93 | 96.63 | 96.71 | 94.57 | 93.39 | 96.08 | 86.72 | 84.52 | 316 |
@@ -471,6 +520,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 97.16 | 74.68 | 98.76 | **92.08** | 87.07 | 96 |
 
 ### Romanian-Nonstandard
+Download link: [lima-deep-models-ron-romanian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-ron-romanian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 98.98 | 96.92 | 98.98 | 95.56 | 61.03 | 91.55 | 86.72 | 81.32 | 387 |
@@ -480,6 +530,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 95.73 | 88.17 | 90.44 | **90.64** | **85.81** | 92 |
 
 ### Russian-SynTagRus
+Download link: [lima-deep-models-rus-russian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-rus-russian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.63 | 98.61 | 99.63 | 98.45 | 96.18 | 95.55 | 92.09 | 90.41 | 299 |
@@ -489,6 +540,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **98.87** | 96.19 | 94.71 | **94.59** | **92.88** | 103 |
 
 ### Scottish\_Gaelic-ARCOSG
+Download link: [lima-deep-models-gla-scottish\_gaelic_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-gla-scottish\_gaelic_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.7 | 50.92 | 99.7 | 86.99 | 69.6 | 91.36 | 70.56 | 61.64 | 393 |
@@ -498,6 +550,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 58.15 | 29.18 | 60.98 | 54.45 | 28.17 | 88 |
 
 ### Serbian-SET
+Download link: [lima-deep-models-srp-serbian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-srp-serbian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.96 | 94.63 | 99.96 | 97.98 | 80.46 | 94.99 | 89.49 | 84.25 | 262 |
@@ -507,6 +560,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 95.93 | 77.69 | **97.15** | **96.65** | **92.65** | 102 |
 
 ### Slovak-SNK
+Download link: [lima-deep-models-slk-slovak_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-slk-slovak_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.96 | 85.62 | 99.96 | 95.64 | 81.61 | 91.11 | 86.97 | 82.84 | 319 |
@@ -516,6 +570,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **97.08** | **89.21** | **94.3** | **96.05** | **93.3** | 97 |
 
 ### Slovenian-SSJ
+Download link: [lima-deep-models-slv-slovenian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-slv-slovenian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 98.5 | 66.67 | 98.5 | 96.82 | 84.88 | 94.81 | 84.33 | 82.14 | 311 |
@@ -525,6 +580,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **98.76** | **93.36** | **96.71** | **94.75** | **93.07** | 101 |
 
 ### Spanish-AnCora
+Download link: [lima-deep-models-spa-spanish_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-spa-spanish_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.96 | 97.88 | 99.44 | 93.37 | 87.31 | 87.5 | 80.33 | 70.71 | 450 |
@@ -534,6 +590,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 97.95 | 91.34 | 97.74 | **91.68** | **89.08** | 93 |
 
 ### Swedish-Talbanken
+Download link: [lima-deep-models-swe-swedish_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-swe-swedish_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.9 | 95.35 | 99.9 | 97.37 | 92.08 | 96.43 | 86.37 | 82.38 | 350 |
@@ -543,6 +600,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **98.2** | **95.92** | 96.29 | **92.06** | **89.24** | 104 |
 
 ### Tamil-TTB
+Download link: [lima-deep-models-tam-tamil_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-tam-tamil_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.58 | 96.3 | 85.31 | 73.78 | 63.9 | 75.85 | 48.1 | 41.01 | 148 |
@@ -552,6 +610,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **91.35** | 81 | 83.86 | **79.44** | **71.44** | 76 |
 
 ### Telugu-MTG
+Download link: [lima-deep-models-tel-telugu_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-tel-telugu_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 100 | 97.95 | 100 | 90.98 | 98.34 | **100** | 88.21 | 76.84 | 99 |
@@ -561,6 +620,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **93.62** | **99.17** | **100** | **91.96** | **83.36** | 40 |
 
 ### Thai-PUD
+Download link: [lima-deep-models-tha-thai_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-tha-thai_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 91.51 | 62.75 | 91.51 | 83.42 | 86.47 | 91.51 | 71.94 | 67.5 | 761 |
@@ -568,6 +628,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 56.54 | 69.64 | **100** | 48.64 | 25.71 | 95 |
 
 ### Turkish-IMST
+Download link: [lima-deep-models-tur-turkish_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-tur-turkish_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.92 | 96.23 | 96.5 | 90.28 | 76.03 | 91.39 | 62.9 | 54.58 | 313 |
@@ -577,6 +638,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **94.42** | 84.66 | 88.54 | **74.8** | **67.45** | 89 |
 
 ### Ukrainian-IU
+Download link: [lima-deep-models-ukr-ukrainian_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-ukr-ukrainian_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.65 | 93.18 | 99.63 | 97.01 | 82.15 | 93.83 | 84.52 | 81.37 | 280 |
@@ -586,6 +648,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **97.81** | **88.62** | **94.5** | **92.57** | **89.93** | 89 |
 
 ### Urdu-UDTB
+Download link: [lima-deep-models-urd-urdu_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-urd-urdu_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.97 | 98.6 | 99.97 | 93.3 | 75 | 93.99 | 85.53 | 78.48 | 424 |
@@ -595,6 +658,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **94.44** | **83.76** | **97.13** | **86.32** | 76.06 | 94 |
 
 ### Uyghur-UDT
+Download link: [lima-deep-models-uig-uyghur_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-uig-uyghur_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.67 | 81.67 | 99.67 | 85.47 | 73.03 | 90.23 | 69.41 | 54.32 | 354 |
@@ -604,6 +668,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 75.97 | 71.4 | 81.04 | 65.69 | 48.69 | 93 |
 
 ### Vietnamese-VTB
+Download link: [lima-deep-models-vie-vietnamese_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-vie-vietnamese_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 84.66 | 91.78 | 84.66 | 73.53 | 80.45 | 82.83 | 46.39 | 39.73 | 458 |
@@ -613,6 +678,7 @@
 | udify | gold-tok | 100 | 100 | 100 | **91.32** | **99.6** | **99.18** | **73.79** | **65.57** | 109 |
 
 ### Welsh-CCG
+Download link: [lima-deep-models-cym-welsh_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-cym-welsh_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.91 | 97.78 | 99.35 | 90.45 | 77.32 | **63.27** | 76.01 | 63.24 | 715 |
@@ -620,6 +686,7 @@
 | udify | gold-tok | 100 | 100 | 100 | 68.62 | 42.55 | 48.69 | 69.07 | 42.59 | 101 |
 
 ### Wolof-WTB
+Download link: [lima-deep-models-wol-wolof_0.1.5_all.deb](https://github.com/aymara/lima-models/releases/download/v0.1.5-beta/lima-deep-models-wol-wolof_0.1.5_all.deb)
 | Tool | Mode | Tokens | Sentences | Words | UPOS | UFeats | Lemmas | UAS | LAS | Speed |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | lima | raw | 99.91 | 92.32 | 98.31 | 89.83 | 80.62 | 72.28 | 74.9 | 66.41 | 701 |
