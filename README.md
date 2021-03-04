@@ -1,6 +1,6 @@
 ## Installation
 
-Use lima_models.py to install LIMA models to user's home directory (~/.lima). This script is the part of LIMA installation.
+Use `lima_models.py` to install LIMA models to user's home directory (~/.lima). This script is the part of LIMA installation.
 
 ```bash
 usage: lima_models.py [-h] [-i] [-l LANG] [-d DEST] [-s SELECT]
@@ -22,20 +22,7 @@ optional arguments:
   ```
   
   An average size of models for each language is 600Mb.
-  
-  To make ~/.lima directory visible to analyzeText update LIMA_RESOURCE environment variable:
-  
- * temporarily
-  ```bash
-  $ LIMA_RESOURCES=~/.lima/resources/:$LIMA_RESOURCES analyzeText -l ud -p deepud --opts udlang:fra test.txt
-  ```
-  
- * permanently
-  ```bash
-  $ echo LIMA_RESOURCES=~/.local/share/lima/resources/:$LIMA_RESOURCES >> ~/.profile
-  $ source ~/.profile
-  ```
-  
+    
   ## Evaluation
   
   Evaluation tables for all models are in [eval.md](eval.md).
